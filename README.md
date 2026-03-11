@@ -1,17 +1,31 @@
-# greenmart
+# Weight Task 🏋️‍♀️
 
-A new Flutter project.
+Flutter application for tracking weight and related tasks.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/haneen57/weighttask/blob/main/screenshots/Screenshot%20(49).png" width="250" />
+<img src="https://github.com/haneen57/weighttask/blob/main/screenshots/Screenshot%20(50).png" width="250" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+> ملاحظة: لو اسم الـ branch عندك مش `dev` غيريه بـ `main` أو الاسم الصحيح.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Features
+- Track weight easily
+- Clean and simple UI
+- Built with Flutter & Dart
+
+---
+
+## 🛠️ Tech Stack
+- Flutter
+- Dart
+- Material Design
+
+---
+
+## 📂 Project Structure
+
