@@ -1,0 +1,36 @@
+class AppImages {
+  static const String carrot="assets/images/carrot.png";
+  static const String logo="assets/images/logo.png";
+  static const String welcomeScreen="assets/images/welcomescreen.png";
+  static const String coloredCarrot="assets/images/coloredCarrot.png";
+  static const String account="assets/images/account.png";
+  static const String cart="assets/images/cart.png";
+  static const String explore="assets/images/explore.png";
+  static const String fav="assets/images/fav.png";
+  static const String shop="assets/images/shop.png";
+  static const String apple="assets/images/apple.png";
+  static const String ginger="assets/images/ginger.png";
+  static const String pepper="assets/images/papper.png";
+  static const String banana="assets/images/banana.png";
+  static const String placement="assets/images/placemet.png";
+  static const String promoIcon='assets/images/PromoCord.png';
+  static const String detailsIcon='assets/images/MyDetailsicon.png';
+  static const String orderIcon='assets/images/Ordersicon.png';
+  static const String aboutIcon='assets/images/abouticon.png';
+  static const String notificationIcon='assets/images/BellIcon.png';
+  static const String addressIcon='assets/images/DeliceryAddress.png';
+  static const String helpIcon='assets/images/helpIcon.png';
+  static const String payIcon='assets/images/payicon.png';
+  static const String egg='assets/images/fruitAndVeg.png';
+  static const String oil='assets/images/oil.png';
+  static const String fruits='assets/images/egg.png';
+  static const String bread='assets/images/bread.png';
+  static const String meat='assets/images/meat.png';
+  static const String beverage='assets/images/bevarege.png';
+  static const String milk='assets/images/milk.png';
+  static const String appleJuice='assets/images/appleJuice.png';
+  static const String coca='assets/images/coca.png';
+  static const String diet='assets/images/diet.png';
+  static const String sprite='assets/images/sprite.png';
+  static const String pepsi='assets/images/pepsi.png';
+}
